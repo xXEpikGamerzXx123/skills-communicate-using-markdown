@@ -10,3 +10,11 @@
 ![Image of Yaktocat](https://m.media-amazon.com/images/M/MV5BZmM0MTI5MjAtYWI4YS00MmUzLWEyYWEtOGQ0YjZjYzQ0NzI3XkEyXkFqcGc@._V1_.jpg)
 
 this is the first edit of the file hehe UwU :3
+
+``` java
+public class newClass{
+  public static void main(String args[]){
+  System.out.println("hello world!");
+  }
+}
+```
